@@ -1,3 +1,23 @@
 .b1{
 background-color:#1abc9c ;
+color: #ffffff;
 }
+.b2{
+    background-color: #474e5d; 
+
+    color: #ffffff;
+}
+.b3{
+    background-color: #ffffff; 
+    color: #555555;
+}
+.container-fluid {
+
+    padding-top: 70px;
+
+    padding-bottom: 70px;
+
+  }
+  .img-width{
+    width:100%;
+  }
